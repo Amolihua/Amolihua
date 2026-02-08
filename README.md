@@ -28,7 +28,7 @@
     <td>
       <h2> 🛠 &nbsp;Tecnologías</h2>
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=javascript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-JavaScript-007396?style=flat&logo=javascript&logoColor=white"/>
       <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
       <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
       <br>
@@ -65,4 +65,4 @@
     </td>
   </tr>
 </table>
----
+
