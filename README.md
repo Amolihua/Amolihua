@@ -9,7 +9,7 @@
       <h2> 💻 &nbsp;Sobre Mí </h2>
       <ul>
         <li>🔭 &nbsp; Constantemente aprendiendo nuevas tecnologías
-        <li>🧠 &nbsp; Intereses actuales: <b>Data Science y Mainframes
+        <li>🧠 &nbsp; Intereses actuales: <b>Data Science y Data Engineering
         <li>🥊 &nbsp; Dato curioso: Me apasiona el Boxeo y el gym
         </li>
       </ul>
