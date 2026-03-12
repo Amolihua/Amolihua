@@ -1,6 +1,6 @@
 ## Hola, soy Carlos Alejandro Molina Huatuco 👋
 
-### Estudiante de Ciencias de la computación
+### Estudiante de Ciencias de la computación | Aspirante a Data Engineer
 ![](https://komarev.com/ghpvc/?username=Amolihua&color=0069b4)
 
 <table>
@@ -15,7 +15,7 @@
       </ul>
       <p align="center">
         <br>
-        <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amolihua&theme=algolia&hide_border=true" alt="Amolihua's Streak""/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amolihua&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" alt="Amolihua's GitHub Stats"/>
       </p>
     </td>
     <td width="40%">
@@ -27,6 +27,8 @@
   <tr>
     <td>
       <h2> 🛠 &nbsp;Tecnologías</h2>
+      <img src="https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/-JavaScript-007396?style=flat&logo=javascript&logoColor=white"/>
       <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
